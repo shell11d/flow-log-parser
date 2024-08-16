@@ -1,0 +1,5 @@
+{
+    "lookup_file": "lookup.csv",
+    "flow_log_file": "flow_log.csv",
+    "output_file": "output.txt"
+}
