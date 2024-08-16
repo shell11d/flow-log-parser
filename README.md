@@ -7,5 +7,7 @@ If a port/protocol combination isn't found in the lookup table, it is tagged as 
 ## Requirements
 Python 3.x (no additional libraries required)
 ## How to Run the Program
-Clone this repository:
-   
+Clone this repository
+Place your lookup_table.csv and flow_log.csv in same directory as script 
+Run the script : python flow_log_parser.py
+Output will be saved to output.txt
