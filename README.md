@@ -36,3 +36,7 @@ Run the test script:
     python test_flow_log_parser.py
     ```
 The script will execute multiple test cases and output the result of each.
+
+
+In case due to permissions the output is not being added to output.txt file then use the flow_log_parser_print.py to print the
+output directly on the console 
