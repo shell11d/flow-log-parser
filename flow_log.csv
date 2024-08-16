@@ -1,0 +1,8 @@
+dstport,protocol
+25,tcp
+68,udp
+80,tcp
+31,udp
+23,tcp
+443,tcp
+8080,tcp
